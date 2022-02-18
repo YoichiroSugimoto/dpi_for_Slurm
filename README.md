@@ -2,7 +2,7 @@ Decomposition-based peak identification (DPI) for Slurm
 =============================================
 This is a slightly modified version of dpi available from (https://github.com/hkawaji/dpi1) so that the software can be run on Slurm.
 
-For details, please see the original repository; for referecen, the following documentations are kept from the source repository.
+For details, please see the original repository; for reference, the following documentations are kept from the source repository.
 
 
 
