@@ -1,6 +1,7 @@
 Decomposition-based peak identification (DPI) for Slurm
 =============================================
 This is a slightly modified version of the `dpi` software available from (https://github.com/hkawaji/dpi1) so that the software can be run on Slurm.
+The software can be run using `identify_tss_peaks_for_slurm_v2.sh`.
 
 For details, please see the original repository; for reference, the following documentations are kept from the source repository.
 
